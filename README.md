@@ -21,7 +21,6 @@ Biology Wordle is an educational word guessing game designed to help students le
 
 ### Key Highlights
 - **Educational Focus**: Curated collection of 72 biology terms
-- **Professional GUI**: Apple-style centered interface design
 - **Flexible Gameplay**: Skip functionality and retry options
 - **Score Tracking**: Persistent scoring system with file storage
 - **Cross-Platform**: Compatible with Windows systems
@@ -31,13 +30,10 @@ Biology Wordle is an educational word guessing game designed to help students le
 ### 🎮 Core Gameplay
 - **10-Word Challenge**: Complete rounds of 10 carefully selected biology words
 - **5-Attempt System**: Up to 5 guesses per word with intelligent feedback
-- **Smart Feedback**: Color-coded letter position and inclusion indicators
 - **Skip Functionality**: Option to skip difficult words and view answers
 - **Retry Mechanism**: Continue trying the same word or move to the next
 
 ### 🎨 User Interface
-- **Centered GUI Design**: Professional Apple-style interface
-- **Dynamic Terminal Sizing**: Automatic optimal terminal configuration
 - **Color-Coded Feedback**: Visual indicators for game state and feedback
 - **Responsive Layout**: Adapts to different terminal sizes
 - **Clean Typography**: Elegant ASCII art and consistent formatting
@@ -66,8 +62,6 @@ Biology Wordle is an educational word guessing game designed to help students le
                               | 4) Exit Program                         |
                               +------------------------------------------+
 ```
-
-*Example of the centered menu interface*
 
 ## 🚀 Installation
 
