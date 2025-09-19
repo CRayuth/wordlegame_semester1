@@ -1,6 +1,6 @@
 # 🧬 Biology Wordle
 
-A sophisticated console-based word guessing game focused on biology terminology, featuring an elegant Apple-style GUI interface and comprehensive gameplay mechanics.
+A console-based word guessing game focused on biology terminology, featuring an elegant interface and comprehensive gameplay mechanics.
 
 ## 📋 Table of Contents
 - [Overview](#overview)
