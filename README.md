@@ -13,18 +13,10 @@ A console-based word guessing game focused on biology terminology, featuring an 
 - [Project Structure](#project-structure)
 - [Development Team](#development-team)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Overview
 
 Biology Wordle is an educational word guessing game designed to help students learn biology terminology in an engaging and interactive way. The game challenges players to guess 5-letter biology-related words within a limited number of attempts, providing immediate feedback and educational value through hints and definitions.
-
-### Key Highlights
-- **Educational Focus**: Curated collection of 72 biology terms
-- **Flexible Gameplay**: Skip functionality and retry options
-- **Score Tracking**: Persistent scoring system with file storage
-- **Cross-Platform**: Compatible with Windows systems
-
 ## ✨ Features
 
 ### 🎮 Core Gameplay
@@ -44,12 +36,6 @@ Biology Wordle is an educational word guessing game designed to help students le
 - **Skipped Words Summary**: Review of missed words with definitions
 - **Progress Tracking**: Real-time score updates and game progression
 
-### 🛠️ Advanced Features
-- **Case Insensitive Input**: Accepts both uppercase and lowercase
-- **Input Validation**: Robust error handling and user guidance
-- **Multiple Modules**: Game, score viewing, and developer information
-- **Exit Confirmation**: Smart exit prompts based on game completion status
-
 ## 🖼️ Screenshots
 
 ```
@@ -64,11 +50,6 @@ Biology Wordle is an educational word guessing game designed to help students le
 ```
 
 ## 🚀 Installation
-
-### Prerequisites
-- Windows operating system
-- C++ compiler (GCC recommended)
-- Terminal/Command Prompt access
 
 ### Quick Start
 1. **Clone or Download** the project files
@@ -172,28 +153,3 @@ semester1_project/
 | **Samreth Rangsey** | p20230037 | Systems Integrator | Menu system, Module 1 integration |
 | **Chheng Rayuth** | p20230001 | Backend Developer | Module 2 development, Module 3 design |
 | **Kaeu Topin** | p20230032 | QA Engineer | Testing, program design, UI/UX |
-
-## 🤝 Contributing
-
-We welcome contributions to improve Biology Wordle! Here's how you can help:
-
-### Areas for Contribution
-- 🆕 Additional biology terms and categories
-- 🎨 Enhanced visual design elements
-- 🔧 Performance optimizations
-- 🐛 Bug fixes and improvements
-- 📚 Documentation updates
-
-### Development Guidelines
-1. Follow existing code style and conventions
-2. Test thoroughly before submitting changes
-3. Update documentation for new features
-4. Ensure cross-platform compatibility
-
-## 📄 License
-
-This project is developed as part of an educational assignment. All rights reserved by the development team.
-
----
-
-*Last updated: September 2025*
